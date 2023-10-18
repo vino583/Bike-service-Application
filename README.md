@@ -1,2 +1,48 @@
 # Bike-service-Application
-A bike service application is a software platform designed to help the bike owners to maintain and manage their bike. This web application to provide  features and services related to bike maintenance, repair, and oil change and extra services. The admin can add, remove and update the service and user can book the service
+
+<h4>Steps to run</h4>
+
+1) Clone the repository
+```
+git clone https://github.com/vino583/Bike-service-Application
+```
+
+2) Change directory
+
+```
+cd client
+```
+
+3) Install dependencies
+
+```
+npm install 
+```
+
+4) Start frontend server
+
+```
+npm start
+```
+
+> open another terminal and enter the below commands
+
+1) Change directory
+
+```
+cd server
+```
+
+2) Install dependencies
+   
+```
+npm install
+```
+
+3) Start backend server
+
+```
+npm run start
+```
+
+<b>Open http://localhost:3000 in the browser</b>
