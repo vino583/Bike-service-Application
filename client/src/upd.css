@@ -1,0 +1,28 @@
+th{
+    height: 60px;
+    width: 150px;
+    font-size: larger;
+    color: rgb(73, 22, 22);
+    background-color: rgba(21, 29, 81, 0.41);
+}
+td button{
+    width: 100px;
+    height: 20px;
+    
+    border-radius: 10px;
+    font: bold small-caps ;
+    font-family: 'Times New Roman', Times, serif;
+}
+td button:hover{
+    background: linear-gradient(59deg, rgba(54,180,158,0.7394667339592087) 0%, rgba(9,121,99,1) 0%, rgb(15, 146, 126) 35%, rgba(26,185,199,1) 100%);
+}
+/* }
+.pen{
+    background-color: rgba(199, 32, 32, 0.733);
+}
+.on{
+    background-color: rgba(72, 72, 232, 0.672);
+}
+.comp{
+    background-color: rgba(80, 199, 175, 0.839);
+} */

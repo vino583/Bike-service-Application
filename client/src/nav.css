@@ -1,0 +1,28 @@
+.na{
+    width: 100%;
+    height: 50px;
+    background-color: rgb(222, 223, 229);
+}
+.n2{
+    padding-left: 1000px;
+    
+} 
+.n3{
+    padding-left: 800px;
+}
+.n4{
+    margin-left: 190px;
+
+}
+.home,.login,.book,.add,.avai{
+    color: rgb(72, 0, 0);
+    padding: 5%;
+    font: italic small-caps bold 20px Arial, sans-serif; 
+    text-decoration: none;
+} 
+.home1,.login1,.book1,.avai1,.view{
+    color: rgb(72, 0, 0);
+    padding: 3%;
+    font: italic small-caps bold 20px Arial, sans-serif;  
+    text-decoration: none;
+}

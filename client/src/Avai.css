@@ -1,0 +1,40 @@
+.avail{
+  background-color: rgb(222, 223, 229);
+  height: 800px;
+  
+}
+.cards{
+    display: flex;
+    flex-direction:row;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+.av{
+    background:transparent;
+}
+.c1{
+    width: 400px;
+    height: 300px;
+    /* padding-right: 10px; */
+    position: relative;
+    margin-left: 100px;
+    overflow: hidden;
+    border-radius: 40px;
+    box-shadow:2px 2px 2px 2px rgb(58, 53, 8);
+    background-image: url('sho.jpg');
+
+}
+.c1 span,.c1 p{
+    margin-top: 10px;
+    margin-left: 20px;
+    font: 20px 'Times New Roman', Times, serif;
+    color: aliceblue;
+}
+.comple{
+    margin-left: 60px;
+    border-radius: 5px;
+    font: bold 16px 'Times New Roman', Times, serif;
+    background-color: rgb(239, 215, 210);
+    width: 100px;
+
+}

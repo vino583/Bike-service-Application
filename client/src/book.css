@@ -1,0 +1,80 @@
+.s2{
+    width:50%;
+    background-color: rgb(1, 35, 63);
+}
+.ad2{
+    
+    width:700px;
+    height:600px;
+} 
+.ad2 input{
+
+    width: 300px;
+}
+.see{
+    height: 100%;
+    width: 105%;
+    margin-top: 60px; 
+}
+.mai{
+    background-color: rgb(222, 223, 229);
+    display: flex;
+    height: 700px;
+    justify-content: center;
+    text-align: center;
+    padding: 50px 0 50px 0;
+}
+.s11{
+    width: 50%;
+    background-color: rgba(217, 164, 186, 0.672);
+    font: bold italic 20px 'Times New Roman', Times, serif ;
+    color: rgb(30, 24, 83);
+}
+.ad2{
+    background-image: url('./serv.jpg');
+}
+/* .ali{
+    margin-top: 50px;
+    margin-left: -290px;
+    font-size: 30px; 
+    padding-left: 20px;
+}  */
+.re1,.re2{
+    margin-top: 20px;
+    margin-left:-80px; 
+    font-size: 20px; 
+    width:70%;
+    font-family: inherit;
+    border: 0;
+    border-bottom: 2px solid rgb(47, 47, 47);
+    outline: 0;
+     color: rgb(11, 5, 38);
+    padding: 7px 0;
+    background: transparent;
+}
+.re2{
+    width: 50%;
+    margin-left:-40px; 
+}
+.make{
+    margin-top: 50px;
+    width: 30%;
+    background: transparent;
+    border-radius: 20px;
+    height: 7%;
+    font: bold italic 20px 'Times New Roman', Times, serif ;
+}
+.make:hover{
+    background-color: cadetblue;
+} 
+.ads{
+    margin-top: 150px;
+    width: 30%;
+    background: transparent;
+    border-radius: 20px;
+    height: 7%;
+    font: bold italic 20px 'Times New Roman', Times, serif ;
+}
+.ads:hover{
+    background-color: rgb(216, 231, 103);
+} 

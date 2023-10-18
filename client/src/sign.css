@@ -1,0 +1,89 @@
+.ma1{
+    /* background-color: rgb(104, 107, 123); */
+    background-image:url("./locl.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+    justify-content: center;
+    text-align: center;
+    padding: 50px 0 50px 0;
+} 
+.admin{
+  color: rgb(38, 38, 37);
+  height: 50px;
+  margin-left: 1200px;
+
+  text-decoration: none;
+  font:bold 25px 'Times New Roman', Times, serif ;
+}
+.ma2{
+    margin-top: 30px;
+    margin-left:600px ;
+    height: 550px;
+    width: 25%;
+    padding: 20px ;
+    border-radius: 40px;
+    /* box-shadow:3px 3px 3px 3px rgb(230, 228, 203); */
+    background-color: rgba(255, 255, 255, 0.609);
+  }
+  .sign{
+    margin-left: -10px;
+    border-radius: 10px;
+    /* font-size: x-large;
+    font: bold; */
+    color: black;
+    text-decoration: none;
+    font:bold 25px 'Times New Roman', Times, serif ;  }
+  .i1{
+    height: 60px;
+    width: 60px;
+    margin-top: 35px;
+    margin-left: 40px;
+    border-radius: 45%;
+}
+.i3{
+    height: 34px;
+    width: 36px;
+    opacity: 0.7;
+    margin-top: 70px;
+    margin-left:52px;
+}
+.i2{
+    height: 25px;
+    width: 28px;
+    opacity: 0.7;
+    margin-top: 70px;
+    margin-left:60px;
+  }
+  .EM{
+    margin-top: 70px;
+    margin-left: 20px;
+    color: rgb(3, 45, 3);
+    font:bold 25px 'Times New Roman', Times, serif ;
+  }
+  .box1{
+    display: flex;
+  }
+  .box1 input{
+    width: 66%;
+    height: 10px;
+    padding: 10px;
+    margin-left: 40px;
+    /* margin-top: 10px; */
+    border-top: 0px;
+    border-left: 0px;
+    border-bottom: 2px solid black;
+    background:transparent;
+    border-radius: 15px;
+    font: bold 20px 'Times New Roman', Times, serif ;
+}
+.b1{
+    width: 120px;
+    height: 30px;
+    margin-top: 30px;
+   background: linear-gradient(to right, rgb(190, 196, 190), rgb(47, 168, 196));
+   font: bold 15px 'Times New Roman', Times, serif ;
+    margin-right: 30px;
+    border-radius: 30px;
+  }
+

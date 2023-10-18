@@ -1,0 +1,80 @@
+.m1{
+    background-color: rgb(222, 223, 229);
+     display: flex;
+     height: 700px;
+     justify-content: center;
+     text-align: center;
+     padding: 50px 0 50px 0;
+}
+.m2{
+    margin-top: 50px;
+    height: 630px;
+    width: 80%;
+    border-radius: 40px;
+    display:flex;
+    /* box-shadow:3px 3px 3px 3px rgb(230, 228, 203); */
+    background-color: rgba(255, 255, 255, 0.46);
+}
+.spl{
+    width:50%;
+    background-image: url("./regs.jpg");
+    font: bold italic 20px 'Times New Roman', Times, serif ;
+    color: rgb(103, 40, 33);
+}
+.spl1{
+    width: 50%;
+    background-color: rgb(17, 28, 112);
+    /* display: flex;
+    flex-direction: row; */
+    
+}
+.nm1{
+    display: flex;
+    height: 10%;
+    margin-top: 40px;
+}
+.bo{
+    width:20%;
+}
+.bo1{
+    margin-top: 8px;
+}
+.u2{
+    height: 35px;
+    margin-top: 5px;
+}
+.u1{
+    height: 50px;
+}
+.su{
+    margin-top: 50px;
+    margin-left: -80px;
+    height: 40px;
+    width: 200px;
+    border-radius: 30px;
+    font: bold italic 20px 'Times New Roman', Times, serif ;
+    background-color: burlywood;
+}
+.numb1{
+    height: 30px;
+    width:40%;
+    padding: 6px;
+    padding-left: 40px;
+    font: bold italic 20px 'Times New Roman', Times, serif ;
+    color: rgb(10, 8, 8);
+    border-radius:20px;
+    border-bottom: 2px solid black;
+    background-color: rgb(204, 208, 227);
+}
+.us1{
+    height: 30px;
+    width:100%;
+    padding: 6px;
+    padding-left: 40px;
+    font: bold italic 20px 'Times New Roman', Times, serif ;
+    color: rgb(10, 8, 8);
+    border-top: 0px;
+    border-radius:20px;
+    border-bottom: 2px solid black;
+    background-color: rgb(204, 208, 227);
+}
